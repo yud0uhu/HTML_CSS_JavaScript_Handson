@@ -18,7 +18,7 @@
 すべて「次へ」で問題ありません。  
 （インストール先の指定はご自由に。デフォルトでは  
 `\C\Users\[ユーザー名]\AppData\Local\Programs\Microsoft VS Code`  
-となっているはずです。）  
+のようになっているはずです。）  
   
 ### 日本語化の手順  
 <img src="https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode2.png" width="960px" height="540px">  
