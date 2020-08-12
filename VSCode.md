@@ -20,7 +20,7 @@
 となっているはずです。）  
   
 ### 日本語化の手順  
-<img src="ttps://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode2.png" width="960px" height="540px">  
+<img src="https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode2.png" width="960px" height="540px">  
   
 - 左側のサイドバーにある四角形のアイコン（カーソルを合わせると`Extensions`と出てくる）をクリックする  
 または  
