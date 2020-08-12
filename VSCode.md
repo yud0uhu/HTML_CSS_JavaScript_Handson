@@ -2,11 +2,11 @@
   
 ## 1. インストール  
   
-[VSCodeのインストール](https://code.visualstudio.com/)  
-  
+[VisualStudioCodeのインストール](https://code.visualstudio.com/)  
+<img src="https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode.png" width="960px" height="540px">  
+
 ### Windowsの場合  
 `Download for Windows` をクリック  
-<img src="https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode.png" width="960px" height="540px">  
   
 ### macOSの場合  
 `Download for Windows`真横のボタンをクリックし、Stable欄の`↓`からインストールできます。  
