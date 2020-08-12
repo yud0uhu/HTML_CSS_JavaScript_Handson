@@ -5,7 +5,7 @@
   
 [VSCodeのインストール](https://code.visualstudio.com/)  
 `Download for Windows` をクリック  
-![VScodeのダウンロード画面](https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode.png "VScodeのダウンロード画面")  
+<img src="https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode.png" width="500px">
   
 ### macOSの場合  
 `Download for Windows`真横のボタンをクリックし、Stable欄の`↓`からインストールできます。  
