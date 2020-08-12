@@ -1,9 +1,10 @@
 # VSCode導入資料  
   
 ## 1. インストール  
-### Windowsの場合  
   
 [VSCodeのインストール](https://code.visualstudio.com/)  
+  
+### Windowsの場合  
 `Download for Windows` をクリック  
 <img src="https://github.com/yud0uhu/HTML_CSS_JavaScript_Handson/blob/patch-2/VScode.png" width="960px" height="540px">  
   
